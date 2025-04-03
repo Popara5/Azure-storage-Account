@@ -1,0 +1,7 @@
+# Open Azure CLI or Azure PowerShell.
+# Run the following command to deploy the template:
+
+az deployment group create --resource-group MyResourceGroup --template-file storage.json
+
+# Replace MyResourceGroup with your actual resource group name and storage.json with the JSON file's path.
+# This will create a storage account and a blob container in Azure automatically. 
