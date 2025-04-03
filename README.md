@@ -36,7 +36,7 @@ In the left menu, under Data storage, click on "Containers".
 
 Click "+ Container".
 
-Enter a name for your container (e.g., mycontainer).
+Enter a name for your container (e.g., mycontainer). Container name do not have to be globally unique as storage account. You can use dashes in the container name if you want to as well. "my-container" Remember to enable anonymous access to object because we did disabled public anonymoue access at the account level. 
 
 Choose the public access level (Private, Blob, or Container).
 
