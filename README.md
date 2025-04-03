@@ -62,7 +62,7 @@ Go back to the container to enable public anonymous access for all objects insid
 
  Test it out by going to the tab with the error message, click on to the refresh button, and if we get it correctly we should see the immage file. And we have successfully enable public anonymous access to of our objects inside of that container, and we can now view that object in a new tab. 
  
- At this point, I have able to create a new container inside of our storage account, uploading some objects or files into that container, and then enabling public anonymous access so we can view the URL of that object in a new tab. 
+ At this point, I have been able to create a new container inside of the storage account, uploading some objects or files into that container, and then enabling public anonymous access so that I can view the URL of that object in a new tab. 
  
 
 
