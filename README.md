@@ -61,6 +61,7 @@ Go back to the container to enable public anonymous access for all objects insid
  Data Storage ----> Containers ------> we will click on the containers from the left side once again, put a check next to the container named "my-container", and then click on the Change access level button, go ahead and click it, and we can choose to enable either anonymous reading access for only Blob files inside of the container or for the container itself. 
 
  Test it out by going to the tab with the error message, click on to the refresh button, and if we get it correctly we should see the immage file. And we have successfully enable public anonymous access to of our objects inside of that container, and we can now view that object in a new tab. 
+ 
  At this point, I have able to create a new container inside of our storage account, uploading some objects or files into that container, and then enabling public anonymous access so we can view the URL of that object in a new tab. 
  
 
